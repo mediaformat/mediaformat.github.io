@@ -8,27 +8,25 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Django Doucet
+    tagline: Web Developer, Mission-Driven Socio-Technologist 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: # hello@webjeda.com
+    phone: # 012 345 6789
+    timezone: America/Edmonton Timezone
+    citizenship: 
+    website: django.is-a.dev #do not add http://
+    linkedin: django-doucet
+    github: mediaformat
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -37,21 +35,27 @@ sidebar:
           level: Native
 
         - idiom: French
-          level: Professional
+          level: Native
 
         - idiom: Spanish
           level: Professional
+          
+        - idiom: Portuguese
+          level: Professional
+                    
+        - idiom: Irish
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Music
           link:
 
-        - item: Snowboarding
+        - item: History
           link:
 
-        - item: Cooking
+        - item: Languages
           link:
 
 career-profile:
@@ -66,9 +70,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BA in Sociology
+        university: Concordia University, Montreal
+        time: 2003 - 2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +81,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Diploma in Multimedia Production
+        College: Limoilou
+        time: 2000 - 2002
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
