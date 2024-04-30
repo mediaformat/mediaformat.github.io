@@ -1,20 +1,32 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
+title: Django Doucet
+url: 'https://django.is-a.dev'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
-
-description: A beautiful Jekyll theme for creating resume
+tagline: Mission Driven Web Developer & Socio-technologist
+description: Mission Driven Web Developer & Socio-technologist
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: turquoise # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
+image: /assets/images/profile.png
+
+#social
+social:
+  name: Django Doucet
+  links:
+    - https://cosocial.ca/@django
+    - https://www.linkedin.com/in/django-doucet
+    - https://github.com/mediaformat
+
+locale: en_CA
+
 # Tracker
-analytics: UA-83979019-1
+analytics: G-KMRCGNMWEV
 
 # Sass/SCSS
 sass:
