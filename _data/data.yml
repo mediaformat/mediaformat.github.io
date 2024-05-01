@@ -89,7 +89,7 @@ education:
             - HTML + CSS & W3C standards ❤️
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Socio technologist
         time: 2023
@@ -106,7 +106,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-     - role: Frontend Engineer
+      - role: Frontend Engineer
         time: 2023
         company: WebDevStudios, Remote
         details: |
