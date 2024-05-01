@@ -64,12 +64,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Full Stack Developer with a strong sense for design.
 education:
     title: Education
     info:
@@ -95,43 +90,21 @@ experiences:
         time: 2023
         company: Self-employed
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Consultant Web developer, Software Developer, Technologist.
+            - PHP: WordPress, Drupal, Symfony
+            - Javascript: Node, Express, Next, React, Vite
       - role: Frontend Engineer
         time: 2023
         company: WebDevStudios, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Front-end Development for existing sites, and new Builds. Performance audits, Accessibility audits.
       - role: Technical Lead
         time: 2021 - 2022
         company: Edelman, Montreal/Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Coordinated web development projects (WordPress, Next.JS) from design to delivery, and maintenance.
+          Scoped projects, reviewed tickets, led client acceptance.
+          Led accessibility audits. Engaged in code reviews, project retrospectives.
       - role: Web Developer
         time: 2013 - 2021
         company: Université du Québec à Montréal
@@ -174,10 +147,12 @@ experiences:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a selection of my open source contributions
     contributions:
+      - title: FediEmbedi
+        link: "https://github.com/mediaformat/fediembedi"
+        tagline: "A public timeline plugin for Mastodon, Pixelfed, & Peertube accounts. Works as a widget and a shortcode"
+
       - title: WordPress ActivityPub
         link: "https://github.com/Automattic/wordpress-activitypub"
         tagline: "A number of contributions over the years notably adding cryptography with outgoing digest headers, incoming HTTP Signature verification, as well as federating Comments"
