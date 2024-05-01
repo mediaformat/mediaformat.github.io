@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem 'github-pages'
 gem 'webrick'
-# gem 'jekyll-seo-tag'
+gem 'jekyll-seo-tag'
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
