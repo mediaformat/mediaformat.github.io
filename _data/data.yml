@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -49,6 +49,9 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Cycling
+          link:
+
         - item: Music
           link:
 
@@ -75,20 +78,35 @@ education:
         time: 2003 - 2009
         details: |
           Major in Sociology, with a fair amount of Anthropology and Applied Human Sciences
-            - Bullet point
-            - Bullet point
       - degree: Diploma in Multimedia Production
-        university: Limoilou
+        university: CÉGÈP Limoilou
         time: 2000 - 2002
         details: |
-          Formal Learning of the Adobe and Macromedia suites. Video at the time.
-            - Bullet point
-            - Bullet point
+          Project design, interactive screen-writing, creative project management
+            - Adobe: Illustrator, Photoshop, FrontPage, Premiere
+            - Macromedia: Flash, Director, Dreamweaver
+            - 3DS Max
+            - HTML + CSS & W3C standards ❤️
 
 experiences:
     title: Experiences
     info:
-      - role: Frontend Engineer
+      - role: Socio technologist
+        time: 2023
+        company: Self-employed
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+     - role: Frontend Engineer
         time: 2023
         company: WebDevStudios, Remote
         details: |
@@ -116,15 +134,15 @@ experiences:
             - Bullet point
       - role: Web Developer
         time: 2013 - 2021
-        company: Univeristy du Québec à Montréal
+        company: Université du Québec à Montréal
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           Acting as full stack developer, I touched on many different technologies. Mostly PHP & Javascript based.
+            - Drupal: etudier.uqam.ca - the main student portal (highest traffic site of the instiitution) 
+            - Drupal: actualites.uqam.ca - the main news site of the institution, rss feeds populate content on faculty and intitutional websites. 
+            - WordPress: continuous improvments (performance, efficiency) to a highly modular and flexible Institutional theme and plugin suite (multisite).
+            - WordPress & Moodle: Developed a custom Educational Certification & Badge issuing site.
+            - Moodle: Created a custom Moodle theme for the University.
+            - Limesurvey: integrated SAML Single sign-on with custom roles and themes.
 
 #projects:
 #    title: Projects
@@ -164,13 +182,13 @@ oss:
         link: "https://github.com/Automattic/wordpress-activitypub"
         tagline: "A number of contributions over the years notably adding cryptography with outgoing digest headers, incoming HTTP Signature verification, as well as federating Comments"
 
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Dandelion
+        link: "https://github.com/scttnlsn/dandelion/pull/175"
+        tagline: "Dandelion is an incremental Git repository deployment tool. Under more recent versions of ruby, the existing FTPS adapter was broken. I replaced the adapter with new native methods, while keeping all the existing options backwards compatible."
 
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: YunoHost-Mobilizon
+        link: "https://github.com/YunoHost-Apps/mobilizon_ynh/pull/156"
+        tagline: "Fixed a dependency issue installing the Mobilizon app"
 
 #publications:
 #    title: Publications
