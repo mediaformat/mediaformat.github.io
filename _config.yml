@@ -10,7 +10,7 @@ url: 'https://django.is-a.dev'
 tagline: Mission Driven Web Developer & Socio-technologist
 description: Mission Driven Web Developer & Socio-technologist
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise # blue turquoise green berry orange ceramic
+theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 plugins:
@@ -18,11 +18,11 @@ plugins:
 
 seo:
   social:
-  name: Django Doucet
-  links:
-    - https://www.linkedin.com/in/django-doucet
-    - https://github.com/mediaformat
-  locale: en_CA
+    name: Django Doucet
+    links:
+      - https://www.linkedin.com/in/django-doucet
+      - https://github.com/mediaformat
+    locale: en_CA
 
 
 # Tracker
