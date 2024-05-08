@@ -154,7 +154,7 @@ oss:
         tagline: "A public timeline plugin for Mastodon, Pixelfed, & Peertube accounts. Works as a widget and a shortcode"
 
       - title: WordPress ActivityPub
-        link: "https://github.com/Automattic/wordpress-activitypub"
+        link: "https://github.com/Automattic/wordpress-activitypub/graphs/contributors#mediaformat"
         tagline: "A number of contributions over the years notably adding cryptography with outgoing digest headers, incoming HTTP Signature verification, as well as federating Comments"
 
       - title: Dandelion
