@@ -21,7 +21,8 @@ social:
   links:
     - https://www.linkedin.com/in/django-doucet
     - https://github.com/mediaformat
-  locale: en_CA
+
+locale: en_CA
 
 
 # Tracker
