@@ -86,9 +86,9 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Socio technologist
-        time: 2023
-        company: Self-employed
+      - role: Full stack developer / Socio technologist
+        time: 2000 - Present
+        company: Self-employed, Remote/Edmonton/Montreal/Dublin
         details: |
           Consultant Web developer, Software Developer, Technologist.
             - PHP: WordPress, Drupal, Symfony
