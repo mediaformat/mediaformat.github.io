@@ -16,13 +16,12 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 plugins:
   - jekyll-seo-tag
 
-seo:
-  social:
-    name: Django Doucet
-    links:
-      - https://www.linkedin.com/in/django-doucet
-      - https://github.com/mediaformat
-    locale: en_CA
+social:
+  name: Django Doucet
+  links:
+    - https://www.linkedin.com/in/django-doucet
+    - https://github.com/mediaformat
+  locale: en_CA
 
 
 # Tracker
